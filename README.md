@@ -2,6 +2,8 @@
 
 **`Future Secuity and Networking Engineer`**
 
+Aspiring Cybersecurity Professional transitioning from IT fundamentals into security operations and network administration. You're a hands-on learner who doesn't just memorize for certs - you actually build things and practice in labs.
+
 <!--
 **Lancer29/Lancer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
