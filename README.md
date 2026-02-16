@@ -2,7 +2,7 @@
 
 **`Future Security and Networking Engineer`**
 
-Aspiring Cybersecurity Professional transitioning from IT fundamentals into security operations and network administration. You're a hands-on learner who doesn't just memorize for certs - you actually build things and practice in labs.
+Aspiring Cybersecurity Professional transitioning from IT fundamentals into security operations and network administration. A hands-on learner who doesn't just memorize certs - and actually build things and practice in labs.
 
 ---
 
@@ -25,7 +25,6 @@ Aspiring Cybersecurity Professional transitioning from IT fundamentals into secu
 
 
 ## 💻 Technical Skills
-What You Know:
 
 **Languages & Tools:**
 - 🐍 **Python** - Security tools, automation scripts
