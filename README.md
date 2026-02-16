@@ -24,7 +24,7 @@ Aspiring Cybersecurity Professional transitioning from IT fundamentals into secu
 
 
 
-💻 Technical Skills:
+## 💻 Technical Skills
 What You Know:
 
 **Languages & Tools:**
@@ -40,7 +40,7 @@ What You Know:
 
 ---
 
-What You're Building:
+## 🚀 Current Projects
 
 🔒 Security log analysis tool (Python)<br>
 🌐 Network labs (Cisco Packet Tracer)<br>
