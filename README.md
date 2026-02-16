@@ -2,7 +2,7 @@
 
 **`Future Security and Networking Engineer`**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lancer29-181717?style=for-the-badge&logo=github)]([https://github.com/Lancer29](https://www.linkedin.com/in/lane-baker-71b1b2258/))
+https://www.linkedin.com/in/lane-baker-71b1b2258/
 
 Aspiring Cybersecurity Professional transitioning from IT fundamentals into security operations and network administration. A hands-on learner who doesn't just memorize certs - and actually build things and practice in labs.
 
@@ -38,6 +38,13 @@ Aspiring Cybersecurity Professional transitioning from IT fundamentals into secu
 - 🌍 **Web Dev** - HTML, CSS, JavaScript
 - 🪟 **Windows** - PowerShell, Active Directory
 - 🛡️ **Server Admin** - Apache hardening, security configs
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lane-baker-71b1b2258/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lane.baker02@gmail.com)
 
 ---
 
