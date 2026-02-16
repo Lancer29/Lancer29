@@ -1,4 +1,4 @@
- 🎸 # Lancer29
+# 🎸 Lancer29
 
 **`Future Secuity and Networking Engineer`**
 
