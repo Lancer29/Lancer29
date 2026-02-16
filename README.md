@@ -19,20 +19,31 @@ Aspiring Cybersecurity Professional transitioning from IT fundamentals into secu
 ✅ CompTIA A+ (IT Fundamentals)<br>
 ✅ CompTIA Network+ (Networking)<br>
 ✅ CompTIA Security+ (Cybersecurity)<br><br>
-(Trifecta complete - strong foundation)💻 Technical Skills:What You Know:<br>
+
+---
 
 
-SQL - Database queries, management
-Web Development - HTML, CSS, JavaScript (portfolio site, to-do list app)
-Windows - PowerShell, Active Directory concepts
-Server Admin - Apache configuration, security hardening
+
+💻 Technical Skills:
+What You Know:
+
+Python - Building security tools (LogAnalyzer, automation scripts)<br>
+Networking - Cisco Packet Tracer labs, VLANs, routing, protocols<br>
+Security - Log analysis, threat detection, authentication monitoring<br>
+Linux - Command line, server administration, Bandit OverTheWire challenges<br>
+Cloud - Apache server deployment (AWS/Azure)<br>
+SQL - Database queries, management<br>
+Web Development - HTML, CSS, JavaScript (portfolio site, to-do list app)<br>
+Windows - PowerShell, Active Directory concepts<br>
+Server Admin - Apache configuration, security hardening<br>
+
 What You're Building:
 
-🔒 Security log analysis tool (Python)
-🌐 Network labs (Cisco Packet Tracer)
-☁️ Cloud-hosted Apache web server
-💼 Portfolio website (HTML/CSS/JS)
-📝 IT blog/documentation
+🔒 Security log analysis tool (Python)<br>
+🌐 Network labs (Cisco Packet Tracer)<br>
+☁️ Cloud-hosted Apache web server<br>
+💼 Portfolio website (HTML/CSS/JS)<br>
+📝 IT blog/documentation<br>
 
 <!--
 **Lancer29/Lancer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
