@@ -6,7 +6,7 @@ Aspiring Cybersecurity Professional transitioning from IT fundamentals into secu
 
 📚 Certifications:
 
--✅ CompTIA A+ (IT Fundamentals)
+-✅ CompTIA A+ (IT Fundamentals)<br>
 -✅ CompTIA Network+ (Networking)
 -✅ CompTIA Security+ (Cybersecurity)
 (Trifecta complete - strong foundation)💻 Technical Skills:What You Know:
