@@ -9,7 +9,7 @@ Aspiring Cybersecurity Professional transitioning from IT fundamentals into secu
 ✅ CompTIA A+ (IT Fundamentals)<br>
 ✅ CompTIA Network+ (Networking)<br>
 ✅ CompTIA Security+ (Cybersecurity)<br>
-(Trifecta complete - strong foundation)💻 Technical Skills:What You Know:
+(Trifecta complete - strong foundation)💻 Technical Skills:What You Know:<br>
 
 Python - Building security tools (LogAnalyzer, automation scripts)
 Networking - Cisco Packet Tracer labs, VLANs, routing, protocols
