@@ -2,6 +2,8 @@
 
 **`Future Security and Networking Engineer`**
 
+[![GitHub](https://img.shields.io/badge/GitHub-Lancer29-181717?style=for-the-badge&logo=github)]([https://github.com/Lancer29](https://www.linkedin.com/in/lane-baker-71b1b2258/))
+
 Aspiring Cybersecurity Professional transitioning from IT fundamentals into security operations and network administration. A hands-on learner who doesn't just memorize certs - and actually build things and practice in labs.
 
 ---
