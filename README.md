@@ -41,9 +41,9 @@ Aspiring Cybersecurity Professional transitioning from IT fundamentals into secu
 
 ## 🚀 Current Projects
 
-🔒 Security log analysis tool (Python)<br>
-🌐 Network labs (Cisco Packet Tracer)<br>
-☁️ Cloud-hosted Apache web server<br>
-💼 Portfolio website (HTML/CSS/JS)<br>
-📝 IT blog/documentation<br>
+- 🔒 **Security log analysis tool (Python)<br>
+- 🌐 **Network labs (Cisco Packet Tracer)<br>
+- ☁️ **Cloud-hosted Apache web server<br>
+- 💼 **Portfolio website (HTML/CSS/JS)<br>
+- 📝 **IT blog/documentation<br>
 
