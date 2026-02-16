@@ -1,6 +1,6 @@
 # 🎸 Lancer29
 
-**`Future Secuity and Networking Engineer`**
+**`Future Security and Networking Engineer`**
 
 Aspiring Cybersecurity Professional transitioning from IT fundamentals into security operations and network administration. You're a hands-on learner who doesn't just memorize for certs - you actually build things and practice in labs.
 
@@ -37,6 +37,8 @@ Web Development - HTML, CSS, JavaScript (portfolio site, to-do list app)<br>
 Windows - PowerShell, Active Directory concepts<br>
 Server Admin - Apache configuration, security hardening<br>
 
+---
+
 What You're Building:
 
 🔒 Security log analysis tool (Python)<br>
@@ -45,17 +47,3 @@ What You're Building:
 💼 Portfolio website (HTML/CSS/JS)<br>
 📝 IT blog/documentation<br>
 
-<!--
-**Lancer29/Lancer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
