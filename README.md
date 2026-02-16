@@ -27,15 +27,16 @@ Aspiring Cybersecurity Professional transitioning from IT fundamentals into secu
 💻 Technical Skills:
 What You Know:
 
-Python - Building security tools (LogAnalyzer, automation scripts)<br>
-Networking - Cisco Packet Tracer labs, VLANs, routing, protocols<br>
-Security - Log analysis, threat detection, authentication monitoring<br>
-Linux - Command line, server administration, Bandit OverTheWire challenges<br>
-Cloud - Apache server deployment (AWS/Azure)<br>
-SQL - Database queries, management<br>
-Web Development - HTML, CSS, JavaScript (portfolio site, to-do list app)<br>
-Windows - PowerShell, Active Directory concepts<br>
-Server Admin - Apache configuration, security hardening<br>
+**Languages & Tools:**
+- 🐍 **Python** - Security tools, automation scripts
+- 🌐 **Networking** - Cisco Packet Tracer, VLANs, routing protocols
+- 🔒 **Security** - Log analysis, threat detection, authentication monitoring
+- 🐧 **Linux** - Command line, server admin, Bandit OverTheWire
+- ☁️ **Cloud** - Apache deployment (AWS/Azure)
+- 💾 **SQL** - Database queries and management
+- 🌍 **Web Dev** - HTML, CSS, JavaScript
+- 🪟 **Windows** - PowerShell, Active Directory
+- 🛡️ **Server Admin** - Apache hardening, security configs
 
 ---
 
